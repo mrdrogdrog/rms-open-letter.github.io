@@ -593,7 +593,6 @@ Signed,
 1. Lionirdeadman
 1. Liza Ainalen Dosso
 1. Liz Fong-Jones (OpenTelemetry governance committee member, linux/aarch64 advocate)
-1. Liz Rice (TOC chair, CNCF; OpenUK ambassador)
 1. Lorenzo Gomez
 1. Louis Jones
 1. Louis-Philippe Véronneau (Debian Developer)
@@ -802,7 +801,6 @@ Signed,
 1. Petrohs
 1. Phil Dibowitz
 1. Philip Balister
-1. Philip Gillißen
 1. Philip Hands (Former Debian Technical Committee member)
 1. Philip Withnall
 1. Philippe Normand
@@ -962,6 +960,7 @@ Signed,
 1. Thom Chiovoloni
 1. Tianon Gravi
 1. Tierney Cyren (Node.js Community Committee Chairperson, Electron, OpenJS Foundation CPC)
+1. Tilman Vatteroth (@mrdrogdrog, Frontend developer at HedgeDoc)
 1. Tim D. Smith (Mozilla; former member, Homebrew PLC)
 1. Tim Pierce (former GNU Guile contributor)
 1. Tim Weber (`scy`)
@@ -1032,4 +1031,3 @@ Signed,
 1. Zack Cerza
 1. Zeltzin Rodríguez
 1. Zvi Gilboa
-1. Julia Buchner (aka @PetiPandaRou)
